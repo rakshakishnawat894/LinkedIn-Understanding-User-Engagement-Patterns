@@ -1,0 +1,101 @@
+user_id,user_name,age,gender,industry,job_title,location,year_of_experience,education_level,num_connection,num_followers,num_post,graduation_year,skill_count,field_of_study
+101,Vishal Chauhan,30,Male,IT Service,IT Service Management,"Delhi, India",4yrs,Bachelor,121,157,30,2021,16,Information Technology
+102,Manu Hathur,37,Female,Software Engineering,Software Developer,"Bengaluru, Karnataka, India",10yrs,Master,50,101,100,2005,7,Information Technology
+103,Aryan Kyatham,28,Male,Software Engineering,Software Developer,"Mumbai, Maharashtra",1yrs,Bachelor/Hons,                          500+,"36,248",30,2022,18,Computer Science
+104,Avinash Kumar ,37,Male,Finance,Seed Investor,"Delhi , India",6yrs,Bachelor,                          500+,"1,148",80,2020,14,Enterpreneurship
+105,Yash Oberoi,32,Male,Finance,Accounting,"West Delhi, India",2yrs,Master,                          500+,"1,579",50,2023,35,Business/Commerce
+106,Sarvajeet Singh,37,Male,Data Science,Data Analysis,"Noida,Delhi,India",12yrs,Bachelor/Hons,                          500+,"35,194",100,2011,41,Information Technology
+107,Mohammad Faizan,42,Male,Marketing,Enterpreneur,"Noida,Delhi,India",12yrs,Master,                          500+,"1,279",69,2010,14,Business Administration
+108,Harish Hashmi,30,Male,Marketing,Growth & Business Development,"Noida,Delhi,India",3yrs,Bachelor,                          500+,548,70,2017,12,Management
+109,Harsh Pandey,29,Male,Content Creator,Content Creator,"Noida,Delhi,India",1yrs,Master,                          500+,"1,134",45,2023,10,Business Administration
+110,Deepak Sharma,40,Male,Healthcare,Pharmacy Manager,"Noida,Delhi,India",5mos,Bachelor,499,561,32,2021,9,Pharmacy
+111,Aparna Debnath,29,Female,IT Service,Business Analysis,"Mumbai, Maharashtra",1yrs,Bachelor/Hons,                          500+,"172,542",30,2020,8,Computer Science
+112,Mukta Sharma,26,Female,Software Engineering,Software Testing,"London,England,UK",3yrs,Master,                          500+,"45,083",30,2021,10,Computer Science
+113,Dhriti Jain,27,Female,Finance,Finance Business Partner,"Delhi , India",3yrs,Bachelor,                          500+,"44,876",70,2022,9,Business/Commerce
+114,Shimona M,27,Female,Content Creator,Creator manager,"Bengaluru, Karnataka, India",3yrs,Bachelor,                          500+,"10,842",80,2021,10,Business/Commerce
+115,Komal Porwal,25,Female,Marketing,Ghostwriter,"Udaipur,Rajasthan",9mos,Bachelor,                          500+,"38,638",32,2023,15,Information Technology
+116,Nishant Seth,26,Male,Data Science,Data Analysis,"Mumbai, Maharashtra",1yrs,Master,                          500+,600,69,2026,30,Computer Science
+117,Bhavika Punathil,28,Female,Marketing,Digital Marketing,"Mumbai, Maharashtra",1yrs,Bachelor,                          500+,800,35,2027,20,Business Administration
+118,CA Sonakshi Arora,29,Female,Content Creator,Assistant Manager,"North Delhi,Delhi,India",4yrs,Master,                          500+,"26,287",60,2021,11,Commerce
+119,Yogesh jangid,35,Male,Finance,Content Creator,"Mumbai, Maharashtra",2yrs,Bachelor,                          500+,"35,144",155,2023,8,Commerce
+120,Vidhi Moondra,26,Female,Finance,Senior Analysis,"New Delhi, India",1yrs,Bachelor,                          500+,"30,807",150,2024,16,Commerce
+121,Riya Godhwai,27,Female,Marketing,Analyst,"Gurugram, Haryana,India",1yrs,Bachelor,                          500+,"209,253",32,2023,12,Business Administration
+122,Ashmi Jain,16,Female,Marketing,General Management,"Ahmedabad,India",10mos,Master,                          500+,"11,309",69,2026,10,Business Administration
+123,Manan Jain,26,Male,Finance,Analyst,"New Delhi, India",8mos,Bachelor,                          500+,"40,783",50,2025,10,Business Administration
+124,Janvi Gupta,26,Female,Marketing,Analyst,"Mumbai, Maharashtra",2yrs,Bachelor,                          500+,"11,994",90,2023,14,Business Administration
+125,Surya Vajpeyi,25,Female,Finance,Senior Research Analysis,"Noida,Delhi,India",2yrs,Bachelor,                         500+,"73,692",47,2023,10,Business Administration
+126,Harshit Bansal,30,Male,Accounting,Ghostwriter,"Gurugram, Haryana,India",2yrs,Bachelor,                          500+,"59,616",68,2020,12,Commerce
+127,Christos Marios Dimopoulos,35,Male,E-Commerce,Web Developer,"Patras, Western Greece, Greece",5yrs,Bachlelor,                           500+,"50,000",80,2012,13,Computer Science
+128,Mohammad Kaif Iqbal,25,Male,E-Commerce,Full-Stack Web Developer,"Delhi,India",1yrs,Bachelor,                           500+,"1,680",44,2027,7,Computer Engineering
+129,Gayur Hussain,24,Male,Software Engineering,Software Developer,"Noida,Uttar Pradesh,India",6mos,Bachelor,                          500+,910,70,2025,5,Computer Science
+130,Arman Mev,23,Male,IT Service,Full-Stack Web Developer,"Kota,Rajasthan,India",5mos,Bachelor,                          500+,"2,891",50,2027,10,Information Technology
+131,Daniel Goleman,50,Male,Education,Senior Consultant,"Northampton, Massachusetts,US",15yrs,Ph.D,                          500+,"5,811,778",190,2005,41,Psychology
+132,Dr.David England,45,Male,Education,Author,"Crpress,Texas,US",16yrs,Ed.D,                         500+,"18,680",200,2014,40,Educational Leadership
+133,Simon Sinek,32,Male,Education,Author,"New York, US",4yrs,Ph.D,                         500+,"8,769,496",55,2018,20,Psychology
+134,Dan Buzut,29,Male,Healthcare,Physicians,"Tehran,Iran",2yrs,Master,                          500+,"4,125",30,2022,14,Health Management Services
+135,Mohammad Jalilian,32,Male,Marketing,Digital Marketing,"Tehran,Iran",1yrs,Bachelor,                          500+,"4,778",40,2020,12,Business Administration
+136,Maheshwari N,35,Female,IT Service,Founder & Managing Partner,"Chennai, Tamil Nadu,India",11yrs,Master,                          500+,"23,572",30,2009,15,Business Administration
+137,Abarna K,27,Female,Manufacturing ,HR Executive,"Chennai, Tamil Nadu,India",2yrs,Master,                          500+,"7,567",70,2024,8,Human Resources Management
+138,Sneha Priya,26,Female,Manufacturing ,HR Executive,"Chennai, Tamil Nadu,India",1yrs,Master,                          500+,"5,093",40,2025,9,Human Resources Management
+139,Thiru Kumaran K R,39,Male,Finance,Regional Business Head,"Tamil Nadu, India",9yrs,Master,                          500+,"2,283",35,2009,5,Enterpreneurship
+140,Vivek Vijayan,36,Male,Finance,Business Head,"Chennai, Tamil Nadu,India",13yrs,Bachelor,                          500+,"3,699",200,2019,6,Business Administration
+141,Sathish Kumar Shanmugam,30,Male,Marketing,Regional Sales Manager,"Tiruchirappalli, Tamil Nadu, India",9yrs,Master,                          500+,"2,385",56,2015,5,Business Administration
+142,Sandeep Thakur,38,Male,Marketing,Regional Sales Manager,"Chennai, India",12yrs,Master,                          500+,"1,869",55,2005,9,Business Administration
+143,Jagrit Joshi,35,Male,Finance,Chief Business Officer,"Gurugram, Haryana,India",9yrs,Bachelor,                          500+,"4,082",40,2009,7,Enterpreneurship
+144,Gaurav Khurana,40,Male,Finance,Chief Information Officer,"Gurugram, Haryana,India",15yrs,Master,                          500+,"2,055",50,2005,10,Finance
+145,Satya Nadella,48,Male,Business Service,Chairman and CEO,"Redmond, Washington, US",25yrs,Master,                          500+,"11,770,609",60,1996,20,Electrical Engineering
+146,Tim Brown,50,Male,Business Service,Chair Emeritus,"Palo Alto, California,US",30yrs,Master,500+,"1,403,636",66,1987,30,Industrial Design
+147,Charles Jones,47,Male,Business Service,Global Design Leader,"Chicago,Illionis, US",20yrs,Master,500+,"2,383",80,1999,40,Product Design
+148,Yossi Sheffi,52,Male,Education,Professor,"Cambridge,Massachusetts,US",30yrs,Master,500+,"309,284",79,1978,29,Civil Engineering
+149,Nick bloom,45,Male,Education,Professor,"Stanford,California,US",25yrs,Ph.D,500+,"70,520",40,1996,5,Economics
+150,Yang Diyi,32,Female,Education,Professor,"Stanford,California,US",8yrs,Ph.D,500+,"3,268",50,2019,6,Philosophy
+151,Ethan Mollick,37,Male,Education,Professor,US,16yrs,Ph.D,500+,"352,368",60,2009,8,Enterpreneurship
+152,Mustafa Suleyman,39,Male,Software Engineering,CEO,"Redmond, Washington, US",15yrs,Master,500+,"480,753",80,1999,9,Economics
+153,Brad Smith,50,Male,Software Engineering,Vice Chair and President,"Bellevue,Washington,US",32yrs,Bachelor,500+,"509,467",250,1985,7,Economics Concentration
+154,Matt Garman,45,Male,Software Engineering,CEO,"Seattle,Washington,US",25yrs,Master,500+,"354,832",299,2006,8,Industrial Engineering
+155,Peter Mueller,39,Male,Software Engineering,Lead Engineer,"San Francisco,Callifornia,US",11yrs,Master,268,280,123,2001,4,Industrial Engineering
+156,Kerim Kfuri,40,Male,Business Service,Global Supply Chain Expert,"New York, US",29yrs,Master,500+,"45,999",80,2004,9,Business Administration
+157,Beth Comstock,48,Female,Media and Publishing,Writer,"New York, US",30yrs,Bachelor,500+,"810,070",100,1982,8,Biology
+158,Guy Kawasaki,55,Male,Media and Publishing,Author,"Wastsonville,California,US",30yrs,Master,500+,"2,963,081",200,1979,10,Marketing
+159,Mo Chen,37,Male,Finance,Data Analysis Manager,UK,15yrs,Master,500+,"51,581",250,2018,7,Economics
+160,Ravena O,29,Female,IT Service,AI Researcher and Data Leader,"San Francisco,Callifornia,US",8yrs,Master,500+,"87,774",115,2017,9,Data Science
+161,Sakshi ,25,Female,Manufacturing ,HR Executive,"Delhi , India",1yrs,Master,500+,"3,313",55,2023,9,Human Resources Management
+162,Naveen Sharma,28,Male,Manufacturing ,HR Manager,"South Delhi, India",1yrs,Master,500+,985,20,2022,10,Human Resources Management
+163,Karuna Borgharkar,32,Female,Manufacturing ,HR Manager,India,4yrs,Master,500+,"6,379",30,2018,11,Business Administration
+164,Priyanka Dhamija,32,Female,Manufacturing ,HR Manager,"New Delhi, India",3yrs,Master,500+,"5,555",50,2016,7,Human Resources Management
+165,Manasa Shetty,30,Male,Manufacturing ,HR Leader,"Bengaluru, Karnataka, India",3yrs,Master,500+,"4,791",80,2020,10,Human Resources Management
+166,Unnati Deshmukh,30,Male,Manufacturing ,HR Manager,"Vadodara,Gujarat,India",2yrs,Master,500+,"26,490",100,2019,6,Human Resources Management
+167,Yogesh Verma,35,Male,IT Service,IT Executive,"New Delhi, India",11yrs,Bachelor,500+,"1,476",200,2012,5,Computer Science
+168,Ansari P.H,41,Male,IT Service,IT Manager,"Dubai, United Arab Emirates",18yrs,Master,500+,"1,390",199,1999,4,Computer Application
+169,Amit Pradhan,50,Male,IT Service,IT Manager,United Arab Emirates,21yrs,Master,500+,"1,090",254,1998,3,Mathematics
+170,Bill Gates,60,Male,Technology,Chair,"Seattle,Washington,US",50yrs,Master,500+,"39,594,178",350,1975,8,Computer Science
+171,Nachiket Bandekar,49,Male,Business Service,Supply Chain & IT Director,United Arab Emirates,50yrs,Master,500+,"1,190",199,1998,3,Management
+172,Nadar ibraik,35,Male,IT Service,IT Manager,"Amman, Jordan",17yrs,Bachelor,500+,619,90,2000,5,computer Sytsem Networking
+173,Mika Salmi,50,Male,Business Service,Enterpreneur and Investor,Zurich Metropolitan Area,18yrs,Master,500+,"84,759",70,1992,7,International Business
+174,Venkatesh N,55,Male,Finance,Senior Manager,United Arab Emirates,21yrs,Bachelor,500+,110,20,1987,4,Commerce
+175,Swapna Balasubramanian,32,Female,Finance,Financial Planning & Analysis,"Dubai, United Arab Emirates",10yrs,Master,500+,577,50,2016,7,Accounting and Business
+176,Tejas Shah,47,Male,Finance,Finance Manager,"Dubai, United Arab Emirates",22yrs,Bachelor,500+,737,60,1996,9,Commerce
+177,Abdul Hameed Sultan,49,Male,Finance,Assistant Manager,"Dubai, United Arab Emirates",20yrs,Bachelor,500+,500,30,1990,10,Commerce
+178,Sharmila Louis,29,Female,IT Service,IT Recruitment,India,7yrs,Master,500+,900,50,2016,7,Business Administration
+179,Sharmistha Hui,24,Female,Data Science,Data Analytics,"west Bengal,India",2mos,Bachelor,500+,691,30,2026,10,Information Technology
+180,Deeksha Panday,28,Female,Data Science,Building Scalable AI systems,"Hyderabad, Telangana, India",3yrs,Bachelor,500+,"245,377",80,2022,6,Computer Science
+181,Naveen Rawat,28,Male,Software Engineering,Software Developer,"Warsaw, Mazowieckie, Poland",3yrs,Bachelor,500+,"157,205",150,2022,5,Information Technology
+182,Archy Gupta,32,Female,Software Engineering,Content Marketing,"Bengaluru, Karnataka, India",6yrs,Bachelor,500+,"194,844",250,2017,8,Computer Science
+183,Hina Arora,35,Female,Software Engineering,Engineering Manager,"Gurugram, Haryana,India",10yrs,Bachelor,500+,"305,498",350,2015,13,Computer Science
+184,Shivam Shrivastava,27,Male,Software Engineering,"Software Engineer ,Machine learning","Bengaluru, Karnataka, India",3yrs,Master,500+,"211,505",160,2023,14,Technology
+185,Anurita Mathur,30,Female,Data Science,Data and Applied Scientist,"Bengaluru, Karnataka, India",8yrs,Master,500+,"11,817",50,2016,17,Computer Science
+186,Gunjan Singh,27,Female,Software Engineering,Software Developer,"Bangalore Urban, Karnataka, India",7yrs,Bachelor,500+,"213,386",100,2020,12,Information Technology
+187,Kriti Rohilla,29,Female,Software Engineering,Software Engineer ,"Hyderabad, Telangana, India",3yrs,Bachelor,500+,"55,140",99,2019,11,Computer Science 
+188,Swati Jha,26,Female,Software Engineering,Software Engineer,"Hyderabad, Telangana, India",2yrs,Bachelor,500+,"587,834",30,2021,7,Computer Science
+189,Tanmay Goel,27,Male,Software Engineering,Software Engineer,"Bengaluru, Karnataka, India",3yrs,Bachelor,500+,"111,722",60,2021,6,Computer Science
+190,Mohit Negi,24,Male,Data Science,Data Entry Exceutive,"Narendra Nagar,Uttarakhand,India",1yrs,Bachelor,10,15,8,2025,5,Infromation Technology
+191,Siddhant Mahalinge,28,Male,Technology,HR,"Mumbai, Maharashtra",2yrs,Master,500+,"1,149",20,2025,7,Information Technology
+192,Devyani Pawar,26,Female,Marketing,CoFounder,"Pune,Maharastra, India",6yrs,Master,500+,"13,863",60,2017,7,Business Administration
+193,Anita Piligimath,28,Female,Manufacturing ,HR,"Kolhapur,maharashtra, India",12yrs,Master,309,315,40,2012,8,Human Resources Management
+194,Saniya Padiyachi,26,Female,Finance,HR,"Nasik,Maharashtra,India",5yrs,Bachelor,500+,"11,45",30,2018,5,Commerce
+195,Priya Sobalkar,25,Female,Technology,HR,"Nasik,Maharashtra,India",2yrs,Master,500+,"10,00",36,2025,7,Human Resources Management
+196,Jatan Sahu,30,Male,Data Science,Data Engineer,"Bengaluru, Karnataka, India",1yrs,Master,300,590,46,2024,6,Data Science
+197,Amisha Gupta,28,Female,IT Service,Data Engineer,"Ranchi,Jharkhand,India",3yrs,Bachelor,500+,"2,476",31,2024,4,Technology
+198,Shubham Kumar,29,Male,Technology,Software Developer,"Bengaluru, Karnataka, India",9mos,Bachelor,200,450,24,2025,5,Technology
+199,Jai Gaur,25,Male,Technology,Software Developer,"Jaipur,Rajasthan,India",1yrs,Bachelor,150,100,18,2024,9,Technology
+200,Pulkit Ranjan,28,Male,IT Service,Analyst,"Ranchi,Jharkhand,India",1yrs,Bachelor,389,400,24,2024,5,Technology
